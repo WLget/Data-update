@@ -51,6 +51,11 @@
         "type": "wechat",
         "label": "631581425",
         "href": "#"
+      },
+      {
+        "type": "phone",
+        "label": "18924080464",
+        "href": ""
       }
     ]
   },
@@ -319,22 +324,7 @@
         "id": "ebay",
         "label": "eBay HTML",
         "type": "device",
-        "pcImages": [
-          "http://angusl.top/img/Work_results/images_1/eBay1-pc_01.png",
-          "http://angusl.top/img/Work_results/images_1/eBay1-pc_02.png",
-          "http://angusl.top/img/Work_results/images_1/eBay1-pc_03.png",
-          "http://angusl.top/img/Work_results/images_1/eBay1-pc_04.png",
-          "http://angusl.top/img/Work_results/images_1/eBay1-pc_05.png"
-        ],
-        "mobileImages": [
-          "http://angusl.top/img/Work_results/images_2/ebay1-wf_01.png",
-          "http://angusl.top/img/Work_results/images_2/ebay1-wf_02.png",
-          "http://angusl.top/img/Work_results/images_2/ebay1-wf_03.png",
-          "http://angusl.top/img/Work_results/images_2/ebay1-wf_04.png",
-          "http://angusl.top/img/Work_results/images_2/ebay1-wf_05.png",
-          "http://angusl.top/img/Work_results/images_2/ebay1-wf_06.png",
-          "http://angusl.top/img/Work_results/images_2/ebay1-wf_07.png"
-        ],
+        "images": [],
         "videos": []
       },
       {
@@ -359,6 +349,13 @@
             "poster": "http://angusl.top/img/bannerImg.jpg"
           }
         ]
+      },
+      {
+        "id": "java",
+        "label": "编程",
+        "type": "",
+        "images": [],
+        "videos": []
       }
     ]
   },
