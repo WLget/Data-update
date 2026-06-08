@@ -51,11 +51,6 @@
         "type": "wechat",
         "label": "631581425",
         "href": "#"
-      },
-      {
-        "type": "phone",
-        "label": "14587892",
-        "href": "3654871111"
       }
     ]
   },
@@ -237,6 +232,13 @@
     "enTitle": "Work Experience",
     "companies": [
       {
+        "name": "维摩诘",
+        "period": "2024-至今",
+        "duties": [
+          "负责所有店铺视觉部门的运作"
+        ]
+      },
+      {
         "name": "广州赢他网络科技有限公司",
         "period": "2016.9 — 2022.9",
         "duties": [
@@ -258,13 +260,6 @@
           "负责服装成衣设计、出版、跟单全流程跟进",
           "协助完成季度产品展会发布及上线计划",
           "统筹淘宝、阿里巴巴、唯品会店铺管理工作"
-        ]
-      },
-      {
-        "name": "维摩诘",
-        "period": "2024-至今",
-        "duties": [
-          "负责所有店铺视觉部门的运作"
         ]
       }
     ]
@@ -324,7 +319,22 @@
         "id": "ebay",
         "label": "eBay HTML",
         "type": "device",
-        "images": [],
+        "pcImages": [
+          "http://angusl.top/img/Work_results/images_1/eBay1-pc_01.png",
+          "http://angusl.top/img/Work_results/images_1/eBay1-pc_02.png",
+          "http://angusl.top/img/Work_results/images_1/eBay1-pc_03.png",
+          "http://angusl.top/img/Work_results/images_1/eBay1-pc_04.png",
+          "http://angusl.top/img/Work_results/images_1/eBay1-pc_05.png"
+        ],
+        "mobileImages": [
+          "http://angusl.top/img/Work_results/images_2/ebay1-wf_01.png",
+          "http://angusl.top/img/Work_results/images_2/ebay1-wf_02.png",
+          "http://angusl.top/img/Work_results/images_2/ebay1-wf_03.png",
+          "http://angusl.top/img/Work_results/images_2/ebay1-wf_04.png",
+          "http://angusl.top/img/Work_results/images_2/ebay1-wf_05.png",
+          "http://angusl.top/img/Work_results/images_2/ebay1-wf_06.png",
+          "http://angusl.top/img/Work_results/images_2/ebay1-wf_07.png"
+        ],
         "videos": []
       },
       {
@@ -349,13 +359,6 @@
             "poster": "http://angusl.top/img/bannerImg.jpg"
           }
         ]
-      },
-      {
-        "id": "java",
-        "label": "编程",
-        "type": "",
-        "images": [],
-        "videos": []
       }
     ]
   },
